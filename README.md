@@ -1,2 +1,1 @@
-# codeforce
-mis soluciones de codeforces
+# Algoritmos 2019 II 
